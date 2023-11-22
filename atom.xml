@@ -3,11 +3,11 @@
   <title>aono~blog</title>
   
   <subtitle>我们是捍卫者！</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://aono00.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2023-11-08T06:57:35.267Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://aono00.github.io/"/>
+  <updated>2023-11-22T01:20:25.221Z</updated>
+  <id>https://aono00.github.io/</id>
   
   <author>
     <name>aono</name>
@@ -17,9 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>阳光不燥，微风正好</title>
+    <link href="https://aono00.github.io/posts/b8cf1317.html"/>
+    <id>https://aono00.github.io/posts/b8cf1317.html</id>
+    <published>2023-11-22T01:12:21.000Z</published>
+    <updated>2023-11-22T01:20:25.221Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="夏至"><a href="#夏至" class="headerlink" title="夏至"></a>夏至</h1><blockquote><p>一生的时间很短<br>  短到不过是两颗心之间的距离<br>  一生的时间也很长<br>  不如我们试着走走看</p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;夏至&quot;&gt;&lt;a href=&quot;#夏至&quot; class=&quot;headerlink&quot; title=&quot;夏至&quot;&gt;&lt;/a&gt;夏至&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;一生的时间很短&lt;br&gt;  短到不过是两颗心之间的距离&lt;br&gt;  一生的时间也很长&lt;br&gt;  不如我们试着走走看&lt;/</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="https://aono00.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://aono00.github.io/posts/4a17b156.html"/>
+    <id>https://aono00.github.io/posts/4a17b156.html</id>
     <published>2023-11-08T06:31:15.970Z</published>
     <updated>2023-11-08T06:57:35.267Z</updated>
     
