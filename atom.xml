@@ -6,7 +6,7 @@
   <link href="https://aono00.github.io/atom.xml" rel="self"/>
   
   <link href="https://aono00.github.io/"/>
-  <updated>2023-11-23T12:24:54.812Z</updated>
+  <updated>2023-11-30T09:22:16.841Z</updated>
   <id>https://aono00.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>制作hexo博客过程总结</title>
+    <link href="https://aono00.github.io/posts/c1f335d.html"/>
+    <id>https://aono00.github.io/posts/c1f335d.html</id>
+    <published>2023-11-30T09:10:30.000Z</published>
+    <updated>2023-11-30T09:22:16.841Z</updated>
+    
+    <content type="html"><![CDATA[<p>123</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;123&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="https://aono00.github.io/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>阳光不燥，微风正好</title>
